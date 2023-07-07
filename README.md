@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/HamidulloRahmonberdiyev/RealProject-customers" target="_blank"><img src="[https://www.youtube.com/watch?v=CHTdO8Wh98E](https://i.ytimg.com/vi/CHTdO8Wh98E/maxresdefault.jpg)" width="300" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://github.com/HamidulloRahmonberdiyev/RealProject-customers" target="_blank"><img src="https://i.ytimg.com/vi/CHTdO8Wh98E/maxresdefault.jpg" width="300" alt="Cyrillic & Latin"></a></p>
 
 ## About Bot
 
